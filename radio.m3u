@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radio" radio="true",УР-1
+http://nrcu.gov.ua:8000/ur1-mp3
+#EXTINF:-1 group-title="Radio" radio="true",УР-2
+http://nrcu.gov.ua:8000/ur2-mp3
+#EXTINF:-1 group-title="Radio" radio="true",УР-3
+http://nrcu.gov.ua:8000/ur3-mp3
+#EXTINF:-1 group-title="Radio" radio="true",Ka3ku
+http://nrcu.gov.ua:8000/kazka-mp3
+#EXTINF:-1 group-title="Radio" radio="true",Relax
+http://online-radiorelax.tavrmedia.ua/RadioRelax_HD
+#EXTINF:-1 group-title="Radio" radio="true",Rocks
+http://online-radioroks.tavrmedia.ua/RadioROKS_HD
