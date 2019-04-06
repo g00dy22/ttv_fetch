@@ -1,8 +1,8 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 
-FNAME="ttv.json"
-URL="http://hmxuku36whbypzxi.onion/trash/ttv-list/ttv.json"
+FNAME="/tmp/ttv.json"
+URL="http://hmxuku36whbypzxi.onion/trash/ttv-list/as.json"
 
 GNAME="${FNAME}.gz"
 curl --fail -R -z "${GNAME}" -o "${GNAME}" -H "Accept-Encoding: gzip" "${URL}" && \

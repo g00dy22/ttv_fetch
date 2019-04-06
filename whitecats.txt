@@ -1,11 +1,31 @@
+#music_video
+#regional
+none
+#Открытый HD
+#Музыкальные
+#Эфирный
+#religion
+movies
 Детские
-Мужские
-Музыка
-Новостные
-Общие
+Movies
+Кино
+sport
+webcam
+educational
+tv
+music
+#amateur
+#MÚSICA - MUSIC
+#erotic_18_plus
+#teleshop
+kids
+informational
+Зарубежные
+series
 Познавательные
-Развлекательные
-Региональные
+#MUSIC TV
+entertaining
+other
+documentaries
+TV
 Спорт
-Фильмы
-#Эротика

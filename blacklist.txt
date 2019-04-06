@@ -200,3 +200,6 @@ TVP
 ^Ani$
 ^Az
 ^Наш[е\s]
+vk.com
+webui
+http

@@ -1,13 +1,25 @@
 #EXTM3U
 #EXTINF:-1 group-title="Radio" radio="true",УР-1
-http://nrcu.gov.ua:8000/ur1-mp3
+http://radio.nrcu.gov.ua:8000/ur1-mp3
 #EXTINF:-1 group-title="Radio" radio="true",УР-2
-http://nrcu.gov.ua:8000/ur2-mp3
+http://radio.nrcu.gov.ua:8000/ur2-mp3
 #EXTINF:-1 group-title="Radio" radio="true",УР-3
-http://nrcu.gov.ua:8000/ur3-mp3
+http://radio.nrcu.gov.ua:8000/ur3-mp3
+#EXTINF:-1 group-title="Radio" radio="true",УР-4
+http://radio.nrcu.gov.ua:8000/ur4-mp3
 #EXTINF:-1 group-title="Radio" radio="true",Ka3ku
-http://nrcu.gov.ua:8000/kazka-mp3
+http://radio.nrcu.gov.ua:8000/kazka-mp3
 #EXTINF:-1 group-title="Radio" radio="true",Relax
 http://online-radiorelax.tavrmedia.ua/RadioRelax_HD
 #EXTINF:-1 group-title="Radio" radio="true",Rocks
 http://online-radioroks.tavrmedia.ua/RadioROKS_HD
+#EXTINF:-1 group-title="Radio" radio="true",AnonyRadio
+http://76qugh5bey5gum7l.onion/AnonyRadio
+#EXTINF:-1 group-title="Radio" radio="true",AnonyJazz
+http://76qugh5bey5gum7l.onion/AnonyJazz
+#EXTINF:-1 group-title="Radio" radio="true",DarkRet (Hard & Heavy)
+http://76qugh5bey5gum7l.onion/DarkRet
+#EXTINF:-1 group-title="Radio" radio="true",DeepBanjo
+http://76qugh5bey5gum7l.onion/DeepBanjo
+#EXTINF:-1 group-title="Radio" radio="true",c0vertElectr0
+http://76qugh5bey5gum7l.onion/c0vertElectr0
